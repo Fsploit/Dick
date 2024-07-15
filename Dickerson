@@ -10,19 +10,6 @@ Title = "VenoX";
 Duration = 5;
 });
 
-Notify({
-Description = "This script isnt stolen. this was made by Fsploit aka the creator of the hub ur using";
-Title = "VenoX";
-Duration = 5;
-});
-
-Notify({
-Description = "this script was not released so it revamped as VenoX";
-Title = "VenoX";
-Duration = 5;
-});
-
-
 -- loader.lua 
 
 
